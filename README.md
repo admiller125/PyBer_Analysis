@@ -19,7 +19,7 @@ After creating the summary dataframe and the fare summary line graph the conclus
 As expected the total rides in the urban areas make up a large majority of the rides in the analyzed time frames. Suburban total rides came in second and rural rides came in last.  Average fare per driver was highest in rural cities,
 with suburban in second and with urban cities having by far the lowest fares. This is expected because of the building density of the city types. In a rural city car ownership is far more crucial due to the significant distance between 
 the establishments that the residents would go to daily. It is likely that a larger percentage of the rides were to and from the airport (longer distance less frequent). In contrast, the urban cities are likely to have far less car ownership 
-as a percentage as the residents are more likely to visit on a daily basis would be in walking distance. It is likely that a larger percentage of rides were to and from bars (shorter distance more frequent).  The suburban city residents
+as a percentage as the residents are more likely to visit daily would be in walking distance. It is likely that a larger percentage of rides were to and from bars (shorter distance more frequent).  The suburban city residents
 are in between as expected 
 
 Below is the summary dataframe:
@@ -35,11 +35,11 @@ Below is the line graph:
 
 
 ## Summary
-Based on the results, it seems that the expected discrepencies are present, but there are some suggestions that could determine whether certain discrepencies can be alleviated. 
+Based on the results, it seems that the expected discrepancies are present, but there are some suggestions that could determine whether certain discrepancies can be alleviated. 
 
  
 ### Business Recommendations
 PyBer could start to collect time data for analysis. This time data would include time between each request and acceptance of the ride by the driver and duration of each ride along with cancellation data. If there are a significant 
 number of shorter duration rides that are canceled due to drivers not accepting incentives could be provided to willing drivers to increase the volume of the business in rural areas. In addition a survey could be sent out to all users
-of the app to determine if they are satisfied with the availablilty of drivers. Similar analysis can be done to the previous suggestion to determine whether incentives could be provided to increase volume. Lastly PyBer could take a look
+of the app to determine if they are satisfied with the availability of drivers. Similar analysis can be done to the previous suggestion to determine whether incentives could be provided to increase volume. Lastly PyBer could look
 at their pricing to determine whether they should consider raising their surge pricing. This could allow them to raise their prices for shorter distance urban travel and allow them to potentially increase their bottom line.
