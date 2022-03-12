@@ -23,8 +23,8 @@ as a percentage as the residents are more likely to visit on a daily basis would
 are in between as expected 
 
 Below is the summary dataframe:
-
-                                                             ![](analysis/summary_dataframe.PNG)
+<p align="center">
+![](analysis/summary_dataframe.PNG)
 
 ### Analysis of Fare Summary
 The fare summary is also as expected. Due to volume the total fare was highest in the city, the next highest was suburban cities, and the lowest was rural cities.
