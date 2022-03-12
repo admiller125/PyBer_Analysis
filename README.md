@@ -23,6 +23,7 @@ as a percentage as the residents are more likely to visit on a daily basis would
 are in between as expected 
 
 Below is the summary dataframe:
+
 ![](analysis/summary_dataframe.PNG)
 
 ### Analysis of Fare Summary
