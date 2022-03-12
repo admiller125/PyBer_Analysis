@@ -31,7 +31,7 @@ The fare summary is also as expected. Due to volume the total fare was highest i
 
 Below is the line graph:
 
-![](analysis/PyBer_fare_summary.png)
+                                                                   ![](analysis/PyBer_fare_summary.png)
 
 
 ## Summary
