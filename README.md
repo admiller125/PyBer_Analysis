@@ -24,14 +24,14 @@ are in between as expected
 
 Below is the summary dataframe:
 
-![](analysis/summary_dataframe.PNG)
+                                                          ![](analysis/summary_dataframe.PNG)
 
 ### Analysis of Fare Summary
 The fare summary is also as expected. Due to volume the total fare was highest in the city, the next highest was suburban cities, and the lowest was rural cities.
 
 Below is the line graph:
 
-                                                                   ![](analysis/PyBer_fare_summary.png)
+![](analysis/PyBer_fare_summary.png)
 
 
 ## Summary
